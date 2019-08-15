@@ -884,38 +884,28 @@ but at the end we should remember all of these data analysis and finding feautre
 
 
 ```python
-#!ipython nbconvert --to HTML Titanic.ipynb
-#!ipython nbconvert --to PDF Titanic.ipynb
-!ipython nbconvert --to md Titanic.ipynb
+!ipython nbconvert --to HTML Titanic.ipynb
+!ipython nbconvert --to PDF Titanic.ipynb
 ```
 
     [TerminalIPythonApp] WARNING | Subcommand `ipython nbconvert` is deprecated and will be removed in future versions.
     [TerminalIPythonApp] WARNING | You likely want to use `jupyter nbconvert` in the future
-    Traceback (most recent call last):
-      File "/home/javad/anaconda2/envs/ml/bin/ipython", line 11, in <module>
-        sys.exit(start_ipython())
-      File "/home/javad/anaconda2/envs/ml/lib/python3.7/site-packages/IPython/__init__.py", line 125, in start_ipython
-        return launch_new_instance(argv=argv, **kwargs)
-      File "/home/javad/anaconda2/envs/ml/lib/python3.7/site-packages/traitlets/config/application.py", line 658, in launch_instance
-        app.start()
-      File "/home/javad/anaconda2/envs/ml/lib/python3.7/site-packages/IPython/terminal/ipapp.py", line 352, in start
-        return self.subapp.start()
-      File "/home/javad/anaconda2/envs/ml/lib/python3.7/site-packages/nbconvert/nbconvertapp.py", line 338, in start
-        self.convert_notebooks()
-      File "/home/javad/anaconda2/envs/ml/lib/python3.7/site-packages/nbconvert/nbconvertapp.py", line 497, in convert_notebooks
-        cls = get_exporter(self.export_format)
-      File "/home/javad/anaconda2/envs/ml/lib/python3.7/site-packages/nbconvert/exporters/base.py", line 113, in get_exporter
-        % (name, ', '.join(get_export_names())))
-    ValueError: Unknown exporter "md", did you mean one of: asciidoc, custom, html, latex, markdown, notebook, pdf, python, rst, script, slides?
-    
-    If you suspect this is an IPython bug, please report it at:
-        https://github.com/ipython/ipython/issues
-    or send an email to the mailing list at ipython-dev@python.org
-    
-    You can print a more detailed traceback right now with "%tb", or use "%debug"
-    to interactively debug it.
-    
-    Extra-detailed tracebacks for bug-reporting purposes can be enabled via:
-        c.Application.verbose_crash=True
-    
+    [NbConvertApp] Converting notebook Titanic.ipynb to HTML
+    [NbConvertApp] Writing 595470 bytes to Titanic.html
+    [TerminalIPythonApp] WARNING | Subcommand `ipython nbconvert` is deprecated and will be removed in future versions.
+    [TerminalIPythonApp] WARNING | You likely want to use `jupyter nbconvert` in the future
+    [NbConvertApp] Converting notebook Titanic.ipynb to PDF
+    [NbConvertApp] Support files will be in Titanic_files/
+    [NbConvertApp] Making directory ./Titanic_files
+    [NbConvertApp] Making directory ./Titanic_files
+    [NbConvertApp] Making directory ./Titanic_files
+    [NbConvertApp] Making directory ./Titanic_files
+    [NbConvertApp] Making directory ./Titanic_files
+    [NbConvertApp] Writing 46039 bytes to ./notebook.tex
+    [NbConvertApp] Building PDF
+    [NbConvertApp] Running xelatex 3 times: ['xelatex', './notebook.tex', '-quiet']
+    [NbConvertApp] Running bibtex 1 time: ['bibtex', './notebook']
+    [NbConvertApp] WARNING | bibtex had problems, most likely because there were no citations
+    [NbConvertApp] PDF successfully created
+    [NbConvertApp] Writing 198686 bytes to Titanic.pdf
 
