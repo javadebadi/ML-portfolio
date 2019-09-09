@@ -26,7 +26,7 @@ Project 02 is an example of Generative Adversarial Notebooks which I have traine
 
 --- 
 
-#### Project 03: Glass (K-nearest neighbors (KNN) )
+#### Project 03: Glass (classification using K-nearest neighbors (KNN))
 - Project 02: [KNN Glass (notebook)](./Project-03-Glass/KNN_glass.ipynb)
 - Project 02: [KNN Glass (directory)](./Project-03-Glass/)   
 Project 03 is about classification of a glass based on its oxide content. The data are taken from UCI machine learning repository. The classification boundary using KNN algorithm with (k=19) is shown here:
