@@ -2,9 +2,9 @@
 # Data Science and Machine Learning Portfolio
 ##### Author:     Javad Ebadi
 ##### Title:      PhD Candidate in High Energy Particle Physics
-##### Institute:  Physics Department, Institute for Research in Fundamental Sciences (IPM)
+##### Institute:  Physics Department, Institute for Research in Fundamental Sciences ([IPM](http://ipm.ac.ir/))
 ##### Emails:     javad.ebadi.1990@gmail.com, javadebadi@ipm.ir, javad.ebadi@cern.ch
-##### Telegram:   @javadebadi1990
+##### Telegram:   [@javadebadi1990](https://t.me/javadebadi1990)
 ##### Skype:      javad.ebadi.abd
 --- 
 
