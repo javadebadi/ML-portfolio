@@ -1,10 +1,11 @@
 # ML-portfolio
 # Data Science and Machine Learning Portfolio
-#### Authro:     Javad Ebadi
-#### Title:      PhD Candidate in High Energy Particle Physics
-#### Institute:  Physics Department, Institute for Research in Fundamental Sciences (IPM)
-#### Emails:     javad.ebadi.1990@gmail.com, javadebadi@ipm.ir, javad.ebadi@cern.ch
-#### Telegram:   @javadebadi1990
+##### Author:     Javad Ebadi
+##### Title:      PhD Candidate in High Energy Particle Physics
+##### Institute:  Physics Department, Institute for Research in Fundamental Sciences (IPM)
+##### Emails:     javad.ebadi.1990@gmail.com, javadebadi@ipm.ir, javad.ebadi@cern.ch
+##### Telegram:   @javadebadi1990
+##### Skype:      javad.ebadi.abd
 
 I create a portfolio for data science and machine learning.
 
