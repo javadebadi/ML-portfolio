@@ -12,7 +12,9 @@ I create a portfolio for data science and machine learning.
 
 #### Project 01: Titanic (data visualization and exploratory analysis)
 - Project 01: [Titanic (notebook)](./Project-01-Titanic/Titanic.ipynb)
-- Project 01: [Titanic (directory)](./Project-01-Titanic/)
+- Project 01: [Titanic (directory)](./Project-01-Titanic/)   
+In Project 01, I use the famous Titanic data to explore what are the features that lead to survival of a passenger in the Titanic collision. Interesting results and insights about data are written in Jupyter notebook. Here, I show one of the plots which illustrates survived and non-survived passengers according to different features such "ticket class of passengers" and etc:
+<img alt="" src="https://github.com/javadebadi/ML-portfolio/blob/master/Project-01-Titanic/Titanic_files/Titanic_22_0.png" width="500">
 
 --- 
 
