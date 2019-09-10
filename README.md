@@ -6,6 +6,8 @@
 ##### Emails:     javad.ebadi.1990@gmail.com, javadebadi@ipm.ir, javad.ebadi@cern.ch
 ##### Telegram:   [@javadebadi1990](https://t.me/javadebadi1990)
 ##### Skype:      javad.ebadi.abd
+
+##### Description: This rope is a portfolio for data science and machine learning. I started to build this portfolio since August 15, 2019. My goal is to show what I know and what I can do as data scientist. A brief description of projects are presented in this page, for further explanation of each project, you can look at  the notebook by clicking on the links. I will be happy to have your feedback.
 --- 
 
 I create a portfolio for data science and machine learning.
@@ -38,6 +40,7 @@ Project 03 is about classification of a glass based on its oxide content. The da
 - Project 04: [A Python Implementation of Linear Regression algorithm (notebook)](./Project-04-Linear-Regression-from-Scratch/Linear_Regression_from_scratch.ipynb)
 - Project 04: [USA Houses Prices (notebook)](./Project-04-Linear-Regression-from-Scratch/USA_Houses.ipynb)
 - Project 04: [USA Houses Prices (directory)](./Project-04-Linear-Regression-from-Scratch/)   
-Project 04 is a regression problem. In this project, I do not use machine learning packages. I implement the linear regerssion algorithm from scratch as an exrecise to gain a sense of how these kind of algorithms are implemented in machine learning libraries such as scikit-learn. Then, I use this code to solve a regression problem. The problem is to predict the price of houses in the USA using some features given in the data. The cost function vs number of training epochs is plotted here:
+Project 04 is a regression problem. In this project, I do not use machine learning packages. I implement the linear regression algorithm from scratch as an exercise to gain a sense of how these kind of algorithms are implemented in machine learning libraries such as scikit-learn. Then, I use this code to solve a regression problem. The problem is to predict the price of houses in the USA using some features given in the data. The cost function vs number of training epochs is plotted here:
 <img alt="linear regression cost funcion is missing ..." src="https://github.com/javadebadi/ML-portfolio/blob/master/Project-04-Linear-Regression-from-Scratch/cost-for-USA-Houses-Data.png" width = "700">
 
+---
