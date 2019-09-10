@@ -27,10 +27,17 @@ Project 02 is an example of Generative Adversarial Notebooks which I have traine
 --- 
 
 #### Project 03: Glass (classification using K-nearest neighbors (KNN))
-- Project 02: [KNN Glass (notebook)](./Project-03-Glass/KNN_glass.ipynb)
-- Project 02: [KNN Glass (directory)](./Project-03-Glass/)   
+- Project 03: [KNN Glass (notebook)](./Project-03-Glass/KNN_glass.ipynb)
+- Project 03: [KNN Glass (directory)](./Project-03-Glass/)   
 Project 03 is about classification of a glass based on its oxide content. The data are taken from UCI machine learning repository. The classification boundary using KNN algorithm with (k=19) is shown here:
 <img alt="classification boundry is missing ..." src="https://github.com/javadebadi/ML-portfolio/blob/master/Project-03-Glass/boundary_decision_distance.png" width = "700">
 
 --- 
+
+#### Project 04: Predict USA Houses Prices (regression problem solved using linear regression algorithm)
+- Project 04: [A Python Implementation of Linear Regression algorithm (notebook)](./Project-04-Linear-Regression-from-Scratch/Linear_Regression_from_scratch.ipynb)
+- Project 04: [USA Houses Prices (notebook)](./Project-04-Linear-Regression-from-Scratch/USA_Houses.ipynb)
+- Project 04: [USA Houses Prices (directory)](./Project-04-Linear-Regression-from-Scratch/)   
+Project 04 is a regression problem. In this project, I do not use machine learning packages. I implement the linear regerssion algorithm from scratch as an exrecise to gain a sense of how these kind of algorithms are implemented in machine learning libraries such as scikit-learn. Then, I use this code to solve a regression problem. The problem is to predict the price of houses in the USA using some features given in the data. The cost function vs number of training epochs is plotted here:
+<img alt="linear regression cost funcion is missing ..." src="https://github.com/javadebadi/ML-portfolio/blob/master/Project-04-Linear-Regression-from-Scratch/cost-for-USA-Houses-Data.png" width = "700">
 
