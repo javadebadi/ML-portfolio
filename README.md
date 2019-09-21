@@ -14,14 +14,15 @@ I create a portfolio for data science and machine learning.
 
 #### Project 01: The Android App Market on Google Play
 - Project 01: [Android App Market on Google Play (notebook)](./Project-01-The-Android-App-Market-on-Google-Play/notebook.ipynb)
-- Project 01: [Titanic (directory)](./Project-01-The-Android-App-Market-on-Google-Play/)
+- Project 01: [Android App Market on Google Play (directory)](./Project-01-The-Android-App-Market-on-Google-Play/)
    
 In Project 01, I use data about the Android apps on Google play. After cleaning data, I conclude some interesting observations about the market. For example:
 - Apps are categorized in groups such as family, game, tools, business, etc. The most freqeunt category is family and then the game.
 - There is huge demand to install "Free" apps with respect to "Paid" apps. The mean number for free apps installation is about 1M, whereas the mean for paid apps installation is about 1000.
 - There are features for sentiment analysis of customers. Although, the paid apps are less likely to be installed, but the users of paid apps are less likely to comment highly negative about the app.   
+
 In the below plot, you see the boxplot in which the x-axis represents free or paid and the y-axis shows the number of installation of apps on devices.
-<img alt="" src="https://github.com/javadebadi/ML-portfolio/blob/master/Project-01-The-Android-App-Market-on-Google-Play/free-vs-paid.html" width="700">
+<img alt="" src="https://github.com/javadebadi/ML-portfolio/blob/master/Project-01-The-Android-App-Market-on-Google-Play/free-vs-paid.png" width="700">
 
 --- 
 
