@@ -12,11 +12,16 @@
 
 I create a portfolio for data science and machine learning.
 
-#### Project 01: Titanic (data visualization and exploratory analysis)
-- Project 01: [Titanic (notebook)](./Project-01-Titanic/Titanic.ipynb)
-- Project 01: [Titanic (directory)](./Project-01-Titanic/)   
-In Project 01, I use the famous Titanic data to explore what are the features that lead to survival of a passenger in the Titanic collision. Interesting results and insights about data are written in Jupyter notebook. Here, I show one of the plots which illustrates survived and non-survived passengers according to different features such "ticket class of passengers" and etc:
-<img alt="" src="https://github.com/javadebadi/ML-portfolio/blob/master/Project-01-Titanic/Titanic_files/Titanic_22_0.png" width="700">
+#### Project 01: The Android App Market on Google Play
+- Project 01: [Android App Market on Google Play (notebook)](./Project-01-The-Android-App-Market-on-Google-Play/notebook.ipynb)
+- Project 01: [Titanic (directory)](./Project-01-The-Android-App-Market-on-Google-Play/)
+   
+In Project 01, I use data about the Android apps on Google play. After cleaning data, I conclude some interesting observations about the market. For example:
+- Apps are categorized in groups such as family, game, tools, business, etc. The most freqeunt category is family and then the game.
+- There is huge demand to install "Free" apps with respect to "Paid" apps. The mean number for free apps installation is about 1M, whereas the mean for paid apps installation is about 1000.
+- There are features for sentiment analysis of customers. Although, the paid apps are less likely to be installed, but the users of paid apps are less likely to comment highly negative about the app.   
+In the below plot, you see the boxplot in which the x-axis represents free or paid and the y-axis shows the number of installation of apps on devices.
+<img alt="" src="https://github.com/javadebadi/ML-portfolio/blob/master/Project-01-The-Android-App-Market-on-Google-Play/free-vs-paid.html" width="700">
 
 --- 
 
@@ -44,3 +49,14 @@ Project 04 is a regression problem. In this project, I do not use machine learni
 <img alt="linear regression cost funcion is missing ..." src="https://github.com/javadebadi/ML-portfolio/blob/master/Project-04-Linear-Regression-from-Scratch/cost-for-USA-Houses-Data.png" width = "700">
 
 ---
+
+#### Exercise Projects
+
+
+#### Exercise Project 01: Titanic (data visualization and exploratory analysis)
+- Exercise Project 01: [Titanic (notebook)](./Project-01-Titanic/Titanic.ipynb)
+- Exercise Project 01: [Titanic (directory)](./Project-01-Titanic/)   
+In Project 01, I use the famous Titanic data to explore what are the features that lead to survival of a passenger in the Titanic collision. Interesting results and insights about data are written in Jupyter notebook. Here, I show one of the plots which illustrates survived and non-survived passengers according to different features such "ticket class of passengers" and etc:
+<img alt="" src="https://github.com/javadebadi/ML-portfolio/blob/master/Project-01-Titanic/Titanic_files/Titanic_22_0.png" width="700">
+
+--- 
