@@ -52,9 +52,12 @@ Project 04 is a regression problem. In this project, I do not use machine learni
 ---
 
 #### Project 05: Implement Decision Tree Algorithm from Scratch to Predict Iris Dataset
+| dataset | Algorithm     | Implemented from Scratch | ML library |
+|---------|---------------|--------------------------|------------|
+| Iris    | Decision Tree | Yes                      | -          |
 - Project 05: [A Python Implementation of Decision Tree Algorithm from Scratch (notebook)](./Project-01-Iris-Decision-Tree-Scratch/Decision-Tree-Scratch.ipynb)
-- Project 05: [USA Houses Prices (notebook)](./Project-01-Iris-Decision-Tree-Scratch/Decision-Tree-Scratch.ipynb)
-- Project 05: [USA Houses Prices (directory)](./Project-01-Iris-Decision-Tree-Scratch/)   
+- Project 05: [Decision Tree - Scratch (notebook)](./Project-01-Iris-Decision-Tree-Scratch/Decision-Tree-Scratch.ipynb)
+- Project 05: [Decision Tree - Scratch (directory)](./Project-01-Iris-Decision-Tree-Scratch/)   
 In this project, I implement a **Decision Tree** Algorithm from Scratch and then fit the model to famous Iris dataset. This simple algorithm, results in 98% accuracy in train dataset and 90% accuracy in test dataset.
 <img alt="linear regression cost funcion is missing ..." src="https://github.com/javadebadi/ML-portfolio/blob/master/./Project-01-Iris-Decision-Tree-Scratch/images/iris.svg" width = "700">
 
